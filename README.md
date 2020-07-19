@@ -2,4 +2,6 @@
 
 When you enter the /creativeitem command, the usage method is displayed as a chat message.
 
-Then hold your item, and follow the message.
+Follow the instructions in the chat to add and remove items.
+
+If you did all, please reboot.
